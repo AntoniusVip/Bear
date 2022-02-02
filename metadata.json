@@ -1,11 +1,11 @@
 {
-    "name": "Bear Syndicate #01",
+    "name": "Bear Syndicate #0",
     "symbol": "DBS",
     "description": "Degenerate Bear Syndicate - Update",
     "seller_fee_basis_points": 250,
     "image": "https://www.arweave.net/K9SZi7SN4sPW544rOnaferBSTO8pVsO5CsGP339IrpM?ext=png",
     "external_url": "https://bearsyndicate.io",
-    "edition": 117,
+    "edition": 0,
     "attributes": [
         {
           "trait_type": "07Background",
