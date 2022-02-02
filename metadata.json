@@ -1,0 +1,66 @@
+{
+    "name": "Bear Syndicate #01",
+    "symbol": "DBS",
+    "description": "Degenerate Bear Syndicate - Update",
+    "seller_fee_basis_points": 250,
+    "image": "https://www.arweave.net/K9SZi7SN4sPW544rOnaferBSTO8pVsO5CsGP339IrpM?ext=png",
+    "external_url": "https://bearsyndicate.io",
+    "edition": 117,
+    "attributes": [
+        {
+          "trait_type": "07Background",
+          "value": "_0000_City_B"
+        },
+        {
+          "trait_type": "05Bearskin",
+          "value": "_0010_Red_Bear"
+        },
+        {
+          "trait_type": "04Bearbody",
+          "value": "_0003_Steampunk_body"
+        },
+        {
+          "trait_type": "02Bearnose",
+          "value": "_0011_Cigar2_nose"
+        },
+        {
+          "trait_type": "01Beareyes",
+          "value": "_0014_Superangry_eye"
+        },
+        {
+          "trait_type": "03Bearhead",
+          "value": "_0009_Fangel_head"
+        },
+        {
+          "trait_type": "06Backitem",
+          "value": "0003_Mercenary_back"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/K9SZi7SN4sPW544rOnaferBSTO8pVsO5CsGP339IrpM?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "BRRuhAyrGQJ9HWMamqp8AQHbg4PsTq6h8AZmhvXasWae",
+                "share": 100
+            }
+        ]
+    },
+    "status": [
+        {
+            "name": "Secondary Market",
+            "value": 1,
+            "type": "primarySaleHappened"
+        },
+        {
+            "name": "Not Mutable",
+            "value": 0,
+            "type": "primarySaleHappened"
+        }
+    ]
+}
